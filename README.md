@@ -1,147 +1,102 @@
-# Welcome to StackEdit!
+# Chapter 8: Rational Numbers
+## 8.1  INTRODUCTION
+You began your study of numbers by counting objects around you. The numbers used for this purpose were called counting numbers or natural numbers. They are 1, 2, 3, 4, ... By including 0 to natural numbers, we got the whole numbers, i.e., 0, 1, 2, 3, ... The negatives of natural numbers were then put together with whole numbers to make up integers. Integers are ..., –3, –2, –1, 0, 1, 2, 3, .... We, thus, extended the number system, from natural numbers to whole numbers and from whole numbers to integers.
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+You were also introduced to fractions. These are numbers of the form $\frac{numerator}{denominator}$, where the numerator is either 0 or a positive integer and the denominator, a positive integer. You compared two fractions, found their equivalent forms and studied all the four basic operations of addition, subtraction, multiplication and division on them.
 
+In this Chapter, we shall extend the number system further. We shall introduce the concept of rational numbers alongwith their addition, subtraction, multiplication and division operations.
 
+## 8.2  NEED FOR  RATIONAL  NUMBERS
 
+Earlier, we have seen how integers could be used to denote opposite situations involving numbers. For example, if the distance of 3 km to the right of a place was denoted by 3, then the distance of 5 km to the left of the same place could be denoted by –5. If a profit of 150 was represented by 150 then a loss of  100 could be written as –100.
 
-# Files
+You can represent a distance of 750m above sea level as $\frac{3}{4}$ km. Can we represent 750m below sea level in km? Can we denote the distance of $\frac{3}{4}$ km below sea level by $\frac{-3}{4}$? We can see $\frac{-3}{4}$ is neither an integer, nor a fractional number. We need to extend our number system to include such numbers.
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+## 8.3  WHAT ARE  RATIONAL  NUMBERS ?
+The word ‘rational’ arises from the term ‘ratio’. You know that a ratio like 3:2 can also be $\frac{3}{2}$ written as . Here, 3 and 2 are natural numbers.
 
-## Create files and folders
+Similarly, the ratio of two integers p and q (q ≠ 0), i.e., p:q can be written in the form $\frac{p}{q}$. This is the form in which rational numbers are expressed.
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+A rational number is defined as a number that can be expressed in the form
+ $\frac{p}{q}$, where p and q are integers and q ≠ 0.
 
-## Switch to another file
+Thus, $\frac{4}{5}$ is a rational number. Here, p = 4 and q = 5.
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+- You have seen many fractions like $\frac{3}{8}$, $\frac{4}{8}$, 1$\frac{2}{3}$ etc. All fractions are rational numbers. Can you say why?
+How about the decimal numbers like 0.5, 2.3, etc.? Each of such numbers can be written as an ordinary fraction and, hence, are rational numbers. For example, 0.5 = $\frac{5}{10}$, 0.333 = $\frac{333}{1000}$ etc.
 
-## Rename a file
+> **TRY THESE**
+> 1. Is the number $\frac{2}{-3}$ rational?  Think about it.
+> 2. List ten rational numbers.
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+**Numerator and Denominator**
+In $\frac{p}{q}$ , the integer p is the numerator, and the integer q (≠ 0) is the denominator.
+Thus, in $\frac{-3}{7}$, the numerator is –3 and the denominator is 7.
+Mention five rational numbers each of whose
+<ol type="a">
+  <li>Numerator is a negative integer and denominator is a positive integer.</li>
+  <li>Numerator is a positive integer and denominator is a negative integer.</li>
+  <li>Numerator and denominator both are negative integers.</li>
+  <li>Numerator and denominator both are positive integers.</li>
+</ol>
 
-## Delete a file
+-  Are integers also rational numbers?
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Any integer can be thought of as a rational number. For example, the integer – 5 is a rational number, because you can write it as $\frac{-5}{1}$. The integer 0 can also be written as 0 = $\frac{0}{2}$ or $\frac{0}{7}$ Hence, it is also a rational number.
+Thus, rational numbers include integers and fractions.
 
-## Export a file
+**Equivalent rational numbers**
+A rational number can be written with different numerators and denominators. For example, consider the rational number $\frac{-2}{3}$.
+$$\frac{-2}{3} = \frac{-2\times2}{3\times2} = \frac{-4}{6}$$ We see that $\frac{-2}{3}$ is same as $\frac{-4}{6}$.
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Also, $$\frac{-2}{3} = \frac{(-2)\times(-5)}{3\times(-5)} = \frac{10}{-15}$$ So $\frac{-2}{3}$ is same as $\frac{10}{-15}$.
 
+Thus, $\frac{-2}{3} = \frac{-4}{6} = \frac{10}{-15}$. Such rational numbers that are equal to each other are said to be equivalent to each other.
 
-# Synchronization
+Again,  $\frac{10}{-15} = \frac{-15}{10}$ (How?)
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+*By multiplying the numerator and denominator of a rational number by the same non zero integer, we obtain another rational number equivalent to the given rational number. This is exactly like obtaining equivalent fractions.*
 
-There are two types of synchronization and they can complement each other:
+Just as multiplication, the division of the numerator and denominator
+by the same non zero integer, also gives equivalent rational numbers. For
+example,
+ $\frac{10}{-15} = \frac{10\div(-5)}{-15\div(-5)} = \frac{-2}{3}$,        $\frac{-12}{24} = \frac{-12\div12}{24\div12} = \frac{-1}{2}$
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+> We write $\frac{-2}{3}$ as  -$\frac{2}{3}$, $\frac{-10}{15}$ as  -$\frac{10}{15}$
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+> **TRY THESE**
+> Fill in the blanks
+> 1. $\frac{5}{4} = \frac{?}{16} = \frac{25}{?} = \frac{-15}{?}$
+> 2. $\frac{-3}{7} = \frac{?}{14} = \frac{9}{?} = \frac{-6}{?}$
 
-## Open a file
+## 8.4   POSITIVE AND NEGATIVE RATIONAL NUMBERS
+Conside the rational number $\frac{2}{3}$. Both the numerator and denominator of this number are Such a rational number is called a **positive rational number**. So,  $\frac{3}{8}$, $\frac{5}{7}$, $\frac{2}{9}$ etc. are positive rational numbers.
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+> **TRY THESE**
+> 1. Is 5 a positive rational number?
+> 2. List five more positive rational number.
 
-## Save a file
+The numerator of $\frac{-3}{5}$ is a negative integer, whereas the denominator is a positive integer. Such a rational number is called a **negative rational number**. So,  $\frac{-5}{7}$, $\frac{-3}{8}$, $\frac{-9}{5}$ etc. are negative rational numbers.
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+>  **TRY THESE**
+> 1. Is -8 a negative rational number?
+> 2. List five more negative rational number.
 
-## Synchronize a file
+- Is $\frac{8}{-3}$ a negative rational number? We know that
+$\frac{8}{-3} = \frac{8\times(-1)}{-3\times(-1)} = \frac{-8}{3}$, and $\frac{-8}{3}$ is a negative rational number. So,  $\frac{8}{-3}$ is a negative rational number.
+Similarly, $\frac{5}{-7}$, $\frac{6}{-5}$, $\frac{2}{-9}$ etc. are all negative rational numbers. Note that their numerators are positive and their denominators negative.
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+- The number 0 is neither a positive nor a negative rational number.
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+- What about $\frac{-3}{-5}$?
+You see that $\frac{-3}{-5} = \frac{-3\times(-1)}{-5\times(-1)} = \frac{3}{5}$.  $\frac{-3}{-5}$ is a positive rational number.
+Thus, $\frac{-2}{-5}$, $\frac{-5}{-3}$ etc. are positive rational numbers.
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-$$\frac{1}{2}$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+> **TRY THESE**
+> 1. $\frac{-2}{3}$
+>
+> 2.  $\frac{5}{7}$
+> 3.  $\frac{3}{-5}$
+> 4. 0
+> 5.  $\frac{6}{11}$
+> 6.  $\frac{-2}{-9}$
