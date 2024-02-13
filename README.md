@@ -100,3 +100,103 @@ Thus, $\frac{-2}{-5}$, $\frac{-5}{-3}$ etc. are positive rational numbers.
 > 4. 0
 > 5.  $\frac{6}{11}$
 > 6.  $\frac{-2}{-9}$
+
+## 8.5 RATIONAL NUMBERS ON NUMBER LINE
+You know how to represent integers on a number line. Let us draw one such number line.
+**picture**
+The points to the right of 0 are denoted by + sign and are positive integers. The points to the left of 0 are denoted by – sign and are negative integers.
+Representation of fractions on a number line is also known to you.
+Let us see how the rational numbers can be represented on a number line.
+
+Let us represent the number -$\frac{1}{2}$ on the number line.
+
+As done in the case of positive integers, the positive rational numbers would be marked on the right of 0 and the negative rational numbers would be marked on the left of 0.
+
+To which side of 0 will you mark  -$\frac{1}{2}$? Being a negative rational number, it would be marked to the left of 0.
+
+You know that while marking integers on the number line, successive integers are marked at equal intervels. Also, from 0, the pair 1 and –1 is equidistant. So are the pairs 2 and – 2, 3 and –3.
+
+In the same way, the same rational numbers $\frac{1}{2}$ and -$\frac{1}{2}$ would be at equal distance from 0.
+We know how to mark the rational number $\frac{1}{2}$. It is marked at a point which is half the distance between 0 and 1. So, -$\frac{1}{2}$ would be marked at a point half the distance between 0 and -1.
+**picture**
+We know how to mark $\frac{3}{2}$ on the number line. It is marked on the right of 0 and lies halfway between 1 and 2. Let us now mark -$\frac{3}{2}$ on the number line. It lies on the left of 0
+In decreasing order, we have,  $\frac{-1}{2}$,  $\frac{-2}{2}$ (= -1),  $\frac{3}{2}$,  $\frac{3}{2}$ (= -2).  This shows that $\frac{-3}{2}$ lies between – 1 and – 2. Thus,  $\frac{-3}{2}$ lies halfway between – 1 and – 2.
+**picture**
+Mark $\frac{-5}{2}$ and $\frac{-7}{2}$ in a similar way.
+
+Similarly, -$\frac{1}{3}$ is to the left of zero and at the same distance from zero as $\frac{1}{3}$ is to the right. So as done above, -$\frac{1}{3}$ can be represented on the number line. Once we know how to represent -$\frac{1}{3}$ on the number line, we can go on representing -$\frac{2}{3}$ , -$\frac{4}{3}$ , -$\frac{5}{3}$ and so on.
+All other rational numbers with different denominators can be represented in a similar way.
+
+## 8.6 RATIONAL NUMBERS IN STANDARD FORM
+Observe the rational numbers  $\frac{3}{5}$ , $\frac{-5}{8}$ , $\frac{2}{7}$, $\frac{-7}{11}$.
+
+The denominators of these rational numbers are positive integers and 1 is the only common factor between the numerators and denominators. Further, the negative sign occurs only in the numerator.
+Such rational numbers are said to be in **standard form**.
+
+*A rational number is said to be in the standard form if its denominator is a positive integer and the numerator and denominator have no common factor other than 1.*
+
+If a rational number is not in the standard form, then it can be reduced to the
+standard form.
+
+Recall that for reducing fractions to their lowest forms, we divided the numerator and the denominator of the fraction by the same non zero positive integer. We shall use the same method for reducing rational numbers to their standard form.
+
+**EXAMPLE 1:** Reduce $\frac{-45}{30}$ to standard form.
+
+**SOLUTION:** We have, $\frac{-45}{30} = \frac{-45\div 3}{30\div3} = \frac{-15}{10} = \frac{-15\div5}{10\div5} = \frac{-3}{2}$
+We had to divide twice. First time by 3 and then by 5. This could also be done as
+$$\frac{-45}{30} = \frac{-45\div15}{30\div15} = \frac{-3}{2}$$
+In this example, note that 15 is the HCF of 45 and 30.
+*Thus, to reduce the rational number to its standard form, we divide its numerator and denominator by their HCF ignoring the negative sign, if any. (The reason for ignoring the negative sign will be studied in Higher Classes)*
+If there is negative sign in the denominator, divide by ‘– HCF’.
+
+**EXAMPLE 2:** Reduce to standard form
+(i) $\frac{36}{-24}$ (ii) $\frac{-3}{-15}$
+
+**SOLUTION**
+1. The HCF of 36 and 24 is 12.
+Thus, its standard form would be obtained by dividing by –12.
+$\frac{36}{-24} = \frac{36\div(-12)}{-24\div(-12)} = \frac{-3}{2}$
+
+2. The HCF of 3 and 15 is 3.
+$\frac{-3}{-15} = \frac{-3\div(-2)}{-15\div(-3)} = \frac{1}{5}$
+
+
+> **TRY THESE**
+> Find the standard form of
+> (i) $\frac{-18}{45}$ (ii) $\frac{-12}{18}$
+
+## 8.7  COMPARISON OF RATIONAL NUMBERS
+We know how to compare two integers or two fractions and tell which is smaller or which is greater among them. Let us now see how we can compare two rational numbers.
+- Two positive rational numbers, like $\frac{2}{3}$ and $\frac{5}{7}$ can be compared as studied earlier in the case of fractions.
+-  Mary compared two negative rational number -$\frac{1}{2}$ and -$\frac{1}{5}$ using number line. She knew that the integer which was on the right side of the other integer, was the greater integer.
+For example, 5 is to the right of 2 on the number line and 5 > 2. The integer – 2 is on the right of – 5 on the number line and – 2 > – 5.
+She used this method for rational numbers also. She knew how to mark rational numbers on the number line. She marked -$\frac{1}{2}$ and -$\frac{1}{5}$ as follows:
+**picture**
+She has correctly marked the two points? How and why did she covert
+-$\frac{1}{2}$ to -$\frac{5}{10}$ and  -$\frac{1}{5}$ to -$\frac{2}{10}$. She found that  -$\frac{1}{5}$ is to the right of -$\frac{1}{2}$. Thus,  -$\frac{1}{5}$ > -$\frac{1}{2}$ or  -$\frac{1}{2}$ < -$\frac{1}{5}$.
+
+	Can you compare  -$\frac{3}{4}$ and -$\frac{2}{3}$?  -$\frac{1}{3}$ and -$\frac{1}{5}$?
+
+	We know from our study of fractions that $\frac{1}{5}$ < $\frac{1}{2}$. And what did Mary get for -$\frac{1}{2}$ and -$\frac{1}{5}$? Was it not exactly the opposite?
+
+	You will find that, $\frac{1}{2}$ > $\frac{1}{5}$ but -$\frac{1}{2}$ < -$\frac{1}{5}$
+
+	Do you observe the same for  -$\frac{3}{4}$,  -$\frac{2}{3}$ and -$\frac{1}{3}$, -$\frac{1}{5}$?
+
+	Mary remembered that in integers she had studied 4 > 3
+but – 4 < –3, 5 > 2 but –5 < –2 etc.
+
+- The case of pairs of negative rational numbers is similar. *To compare two negative rational numbers, we compare them ignoring their negative signs and then reverse the order.*
+
+	For example, to compare -$\frac{7}{5}$ and -$\frac{5}{3}$, we first compare  $\frac{7}{5}$ and $\frac{5}{3}$
+
+	We get $\frac{7}{5}$ < $\frac{5}{3}$ and conclude that $\frac{-7}{5}$ > $\frac{-5}{3}$
+
+	Take five more such pairs and compare them.
+
+	Which is greater -$\frac{3}{8}$ and -$\frac{2}{7}$?; -$\frac{4}{3}$ and -$\frac{3}{2}$?
+
+- Comparison of a negative and a positive rational number is obvious. A negative rational number is to the left of zero whereas a positive rational number is to the right of zero on a number line. So, a negative rational number will always be less than a positive rational number.
+Thus, -$\frac{2}{7}$ < $\frac{1}{2}$
+
+- To compare rational numbers  $\frac{-3}{-5}$ and $\frac{-2}{-7}$ reduce them to their standard forms and then compare them.
