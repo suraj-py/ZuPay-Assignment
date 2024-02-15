@@ -1,4 +1,4 @@
-# Chapter 8: Rational Numbers
+﻿# Chapter 8: Rational Numbers
 ## 8.1  INTRODUCTION
 You began your study of numbers by counting objects around you. The numbers used for this purpose were called counting numbers or natural numbers. They are 1, 2, 3, 4, ... By including 0 to natural numbers, we got the whole numbers, i.e., 0, 1, 2, 3, ... The negatives of natural numbers were then put together with whole numbers to make up integers. Integers are ..., –3, –2, –1, 0, 1, 2, 3, .... We, thus, extended the number system, from natural numbers to whole numbers and from whole numbers to integers.
 
@@ -26,7 +26,7 @@ Thus, $\frac{4}{5}$ is a rational number. Here, p = 4 and q = 5.
 How about the decimal numbers like 0.5, 2.3, etc.? Each of such numbers can be written as an ordinary fraction and, hence, are rational numbers. For example, 0.5 = $\frac{5}{10}$, 0.333 = $\frac{333}{1000}$ etc.
 
 > **TRY THESE**
-> 1. Is the number $\frac{2}{-3}$ rational?  Think about it.
+> 1. Is the number $\frac{2}{-3}$ rational?  Think about it. 
 > 2. List ten rational numbers.
 
 **Numerator and Denominator**
@@ -47,10 +47,10 @@ Thus, rational numbers include integers and fractions.
 
 **Equivalent rational numbers**
 A rational number can be written with different numerators and denominators. For example, consider the rational number $\frac{-2}{3}$.
-$$\frac{-2}{3} = \frac{-2\times2}{3\times2} = \frac{-4}{6}$$ We see that $\frac{-2}{3}$ is same as $\frac{-4}{6}$.
+$$\frac{-2}{3} = \frac{-2\times2}{3\times2} = \frac{-4}{6}$$ We see that $\frac{-2}{3}$ is same as $\frac{-4}{6}$. 
 
 Also, $$\frac{-2}{3} = \frac{(-2)\times(-5)}{3\times(-5)} = \frac{10}{-15}$$ So $\frac{-2}{3}$ is same as $\frac{10}{-15}$.
-
+ 
 Thus, $\frac{-2}{3} = \frac{-4}{6} = \frac{10}{-15}$. Such rational numbers that are equal to each other are said to be equivalent to each other.
 
 Again,  $\frac{10}{-15} = \frac{-15}{10}$ (How?)
@@ -82,7 +82,7 @@ The numerator of $\frac{-3}{5}$ is a negative integer, whereas the denominator i
 > 1. Is -8 a negative rational number?
 > 2. List five more negative rational number.
 
-- Is $\frac{8}{-3}$ a negative rational number? We know that
+- Is $\frac{8}{-3}$ a negative rational number? We know that 
 $\frac{8}{-3} = \frac{8\times(-1)}{-3\times(-1)} = \frac{-8}{3}$, and $\frac{-8}{3}$ is a negative rational number. So,  $\frac{8}{-3}$ is a negative rational number.
 Similarly, $\frac{5}{-7}$, $\frac{6}{-5}$, $\frac{2}{-9}$ etc. are all negative rational numbers. Note that their numerators are positive and their denominators negative.
 
@@ -94,7 +94,7 @@ Thus, $\frac{-2}{-5}$, $\frac{-5}{-3}$ etc. are positive rational numbers.
 
 > **TRY THESE**
 > 1. $\frac{-2}{3}$
->
+> 
 > 2.  $\frac{5}{7}$
 > 3.  $\frac{3}{-5}$
 > 4. 0
@@ -103,7 +103,7 @@ Thus, $\frac{-2}{-5}$, $\frac{-5}{-3}$ etc. are positive rational numbers.
 
 ## 8.5 RATIONAL NUMBERS ON NUMBER LINE
 You know how to represent integers on a number line. Let us draw one such number line.
-**picture**
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale1.png)
 The points to the right of 0 are denoted by + sign and are positive integers. The points to the left of 0 are denoted by – sign and are negative integers.
 Representation of fractions on a number line is also known to you.
 Let us see how the rational numbers can be represented on a number line.
@@ -116,12 +116,13 @@ To which side of 0 will you mark  -$\frac{1}{2}$? Being a negative rational numb
 
 You know that while marking integers on the number line, successive integers are marked at equal intervels. Also, from 0, the pair 1 and –1 is equidistant. So are the pairs 2 and – 2, 3 and –3.
 
-In the same way, the same rational numbers $\frac{1}{2}$ and -$\frac{1}{2}$ would be at equal distance from 0.
+In the same way, the same rational numbers $\frac{1}{2}$ and -$\frac{1}{2}$ would be at equal distance from 0. 
 We know how to mark the rational number $\frac{1}{2}$. It is marked at a point which is half the distance between 0 and 1. So, -$\frac{1}{2}$ would be marked at a point half the distance between 0 and -1.
-**picture**
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale2.png)
 We know how to mark $\frac{3}{2}$ on the number line. It is marked on the right of 0 and lies halfway between 1 and 2. Let us now mark -$\frac{3}{2}$ on the number line. It lies on the left of 0
 In decreasing order, we have,  $\frac{-1}{2}$,  $\frac{-2}{2}$ (= -1),  $\frac{3}{2}$,  $\frac{3}{2}$ (= -2).  This shows that $\frac{-3}{2}$ lies between – 1 and – 2. Thus,  $\frac{-3}{2}$ lies halfway between – 1 and – 2.
-**picture**
+
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale3.png)
 Mark $\frac{-5}{2}$ and $\frac{-7}{2}$ in a similar way.
 
 Similarly, -$\frac{1}{3}$ is to the left of zero and at the same distance from zero as $\frac{1}{3}$ is to the right. So as done above, -$\frac{1}{3}$ can be represented on the number line. Once we know how to represent -$\frac{1}{3}$ on the number line, we can go on representing -$\frac{2}{3}$ , -$\frac{4}{3}$ , -$\frac{5}{3}$ and so on.
@@ -168,22 +169,23 @@ $\frac{-3}{-15} = \frac{-3\div(-2)}{-15\div(-3)} = \frac{1}{5}$
 ## 8.7  COMPARISON OF RATIONAL NUMBERS
 We know how to compare two integers or two fractions and tell which is smaller or which is greater among them. Let us now see how we can compare two rational numbers.
 - Two positive rational numbers, like $\frac{2}{3}$ and $\frac{5}{7}$ can be compared as studied earlier in the case of fractions.
--  Mary compared two negative rational number -$\frac{1}{2}$ and -$\frac{1}{5}$ using number line. She knew that the integer which was on the right side of the other integer, was the greater integer.
+-  Mary compared two negative rational number -$\frac{1}{2}$ and -$\frac{1}{5}$ using number line. She knew that the integer which was on the right side of the other integer, was the greater integer. 
 For example, 5 is to the right of 2 on the number line and 5 > 2. The integer – 2 is on the right of – 5 on the number line and – 2 > – 5.
 She used this method for rational numbers also. She knew how to mark rational numbers on the number line. She marked -$\frac{1}{2}$ and -$\frac{1}{5}$ as follows:
-**picture**
+
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale4.png)
 She has correctly marked the two points? How and why did she covert
 -$\frac{1}{2}$ to -$\frac{5}{10}$ and  -$\frac{1}{5}$ to -$\frac{2}{10}$. She found that  -$\frac{1}{5}$ is to the right of -$\frac{1}{2}$. Thus,  -$\frac{1}{5}$ > -$\frac{1}{2}$ or  -$\frac{1}{2}$ < -$\frac{1}{5}$.
 
-	Can you compare  -$\frac{3}{4}$ and -$\frac{2}{3}$?  -$\frac{1}{3}$ and -$\frac{1}{5}$?
+Can you compare  -$\frac{3}{4}$ and -$\frac{2}{3}$?  -$\frac{1}{3}$ and -$\frac{1}{5}$?
 
-	We know from our study of fractions that $\frac{1}{5}$ < $\frac{1}{2}$. And what did Mary get for -$\frac{1}{2}$ and -$\frac{1}{5}$? Was it not exactly the opposite?
+We know from our study of fractions that $\frac{1}{5}$ < $\frac{1}{2}$. And what did Mary get for -$\frac{1}{2}$ and -$\frac{1}{5}$? Was it not exactly the opposite?
 
-	You will find that, $\frac{1}{2}$ > $\frac{1}{5}$ but -$\frac{1}{2}$ < -$\frac{1}{5}$
+You will find that, $\frac{1}{2}$ > $\frac{1}{5}$ but -$\frac{1}{2}$ < -$\frac{1}{5}$
 
-	Do you observe the same for  -$\frac{3}{4}$,  -$\frac{2}{3}$ and -$\frac{1}{3}$, -$\frac{1}{5}$?
+Do you observe the same for  -$\frac{3}{4}$,  -$\frac{2}{3}$ and -$\frac{1}{3}$, -$\frac{1}{5}$?
 
-	Mary remembered that in integers she had studied 4 > 3
+Mary remembered that in integers she had studied 4 > 3
 but – 4 < –3, 5 > 2 but –5 < –2 etc.
 
 - The case of pairs of negative rational numbers is similar. *To compare two negative rational numbers, we compare them ignoring their negative signs and then reverse the order.*
@@ -195,7 +197,7 @@ but – 4 < –3, 5 > 2 but –5 < –2 etc.
 	Take five more such pairs and compare them.
 
 	Which is greater -$\frac{3}{8}$ and -$\frac{2}{7}$?; -$\frac{4}{3}$ and -$\frac{3}{2}$?
-
+	
 - Comparison of a negative and a positive rational number is obvious. A negative rational number is to the left of zero whereas a positive rational number is to the right of zero on a number line. So, a negative rational number will always be less than a positive rational number.
 Thus, -$\frac{2}{7}$ < $\frac{1}{2}$
 
@@ -270,7 +272,7 @@ Thus, we observe a pattern in these numbers.
 The other numbers would be $\frac{-1\times5}{3\times5}$ = $\frac{-5}{15}$, $\frac{-1\times6}{3\times6}$ = $\frac{-6}{18}$, $\frac{-1\times7}{3\times7}$ = $\frac{-7}{21}$.
 
 > **EXERCISE 8.1**
->
+> 
 > 1. List five rational numbers between:
 > (i) –1 and 0
 >(ii) –2 and –1
@@ -295,7 +297,7 @@ The other numbers would be $\frac{-1\times5}{3\times5}$ = $\frac{-5}{15}$, $\fra
 >(iv) $\frac{7}{8}$
 >
 >5. The points P, Q, R, S, T, U, A and B on the number line are such that, TR = RS = SU and AP = PQ = QB. Name the rational numbers represented by P, Q, R and S.
->**picture**
+>![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale5.png)
 >
 >6. Which of the following pairs represent the same rational number?
 >(i) $\frac{-7}{21}$ and $\frac{3}{9}$
@@ -340,26 +342,28 @@ You know how to add, subtract, multiply and divide integers as well as fractions
 - Let us add two rational numbers with same denominators, say  $\frac{7}{3}$, $\frac{-5}{3}$
 We find,  $\frac{7}{3}$ + $\left(\frac{-3}{2}\right)$
 On the number line, we have:
-**picture**
+
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale6.png)
 The distance between two consecutive points is $\frac{1}{3}$. So adding
 $\frac{-5}{3}$ to $\frac{7}{3}$ will mean, moving to the left of  $\frac{7}{3}$ making 5 jumps. Where do we reach? We reach at  $\frac{2}{3}$.
 
-	So,  $\frac{7}{3}$ + $\left(\frac{-5}{3}\right)$ = $\frac{2}{3}$
-
-	Let us now try this way:
+So,  $\frac{7}{3}$ + $\left(\frac{-5}{3}\right)$ = $\frac{2}{3}$
+	
+Let us now try this way:
 	$\frac{7}{3}$ + $\frac{(-5)}{3}$ = $\frac{7 + (-5)}{3}$ = $\frac{2}{3}$
 
-	We get the same answer.
+We get the same answer.
 	Find $\frac{6}{5}$ + $\frac{(-2)}{5}$, $\frac{3}{7}$ + $\frac{(-5)}{7}$ in both ways and check if you get the same answers.
 	 Similarly, $\frac{-7}{8}$ + $\frac{5}{8}$ would be
-	 **picture**
-	 What do you get?
-	  Also, $\frac{-7}{8}$ + $\frac{5}{8}$ =  $\frac{-7 + 5}{8}$=? Are the two values same?
+	 ![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale7.png)
+ What do you get?
+ Also, $\frac{-7}{8}$ + $\frac{5}{8}$ =  $\frac{-7 + 5}{8}$=? Are the two values same?
+	  
+*So, we find that while adding rational numbers with same denominators, we add the numerators keeping the denominators same.*
+	 
+$\frac{-11}{5}$ + $\frac{7}{5}$ =  $\frac{-11 + 7}{5}$= $\frac{-4}{5}$
 
-	 *So, we find that while adding rational numbers with same denominators, we add the numerators keeping the denominators same.*
-
-	$\frac{-11}{5}$ + $\frac{7}{5}$ =  $\frac{-11 + 7}{5}$= $\frac{-4}{5}$
->**TRY THESE**
+>**TRY THESE**  
 >
 >FInd $\frac{-13}{7}$ + $\frac{6}{7}$, $\frac{19}{5}$ + $\left(\frac{-7} {5}\right)$
 
@@ -367,9 +371,9 @@ $\frac{-5}{3}$ to $\frac{7}{3}$ will mean, moving to the left of  $\frac{7}{3}$ 
 
 	For example, let us add $\frac{-7}{5}$ + $\frac{-2}{3}$
 	LCM of 5 and 3 is 15.
-
+	
 	So, $\frac{-7}{5}$ = $\frac{-21}{15}$ and $\frac{-2}{3}$ + $\frac{-10}{15}$
-
+	
 	Thus,  $\frac{-7}{5}$ + $\frac{-2}{3}$ =  $\frac{-21}{15}$ + $\frac{-10}{15}$ = $\frac{-31}{15}$
 
 > **TRY THESE**
@@ -399,11 +403,11 @@ $\frac{2}{3}$ + $\left(-1\frac{5}{7}\right)$ = $\frac{2}{3}$ + $\frac{(-12)}{7}$
 
 Since it is negative, it means Satpal is at a distance $1\frac{1}{21}$ km towards west of P.
 
-### 8.9.2 Subtraction
+### 8.9.2 Subtraction 
 Savita found the difference of two rational numbers $\frac{5}{7}$ and $\frac{3}{8}$ in this way:
 
  $\frac{5}{7}$ - $\frac{3}{8}$ =  $\frac{40 - 21}{56}$ = $\frac{19}{56}$
-
+ 
 Farida knew that for two integers a and b she could write a – b = a + (– b)
 She tried this for rational numbers also and found, $\frac{5}{7}$ - $\frac{3}{8}$ =  $\frac{5}{7}$ + $\frac{(-3)}{8}$  = $\frac{19}{56}$
 Both obtained the same difference.
@@ -417,7 +421,7 @@ Thus, 1$\frac{2}{3}$ - 2$\frac{4}{5}$ = $\frac{5}{3}$ - $\frac{14}{5}$ =  $\frac
 What will be $\frac{2}{7}$ - $\left(\frac{-5}{6}\right)$ ?
 
  $\frac{2}{7}$ - $\left(\frac{-5}{6}\right)$ =  $\frac{2}{7}$ + additive inverse of $\left(\frac{-5}{6}\right)$ = $\frac{2}{7}$ + $\frac{5}{6}$ = $\frac{47}{42}$ = 1$\frac{5}{42}$
-
+ 
 > **TRY THESE**
 > Find:
 > (i) $\frac{7}{9}$ - $\frac{2}{5}$
@@ -427,7 +431,7 @@ What will be $\frac{2}{7}$ - $\left(\frac{-5}{6}\right)$ ?
 Let us multiply the rational number $\frac{-3}{5}$ by 2, i.e., we find $\frac{-3}{5} \times 2$
 
 On the number line, it will mean two jumps of $\frac{3}{5}$ to the left.
-**picture**
+![enter image description here](https://raw.githubusercontent.com/suraj-py/ZuPay-Assignment/master/images/scale8.png)
 
 Where do we reach? We reach at $\frac{-6}{5}$. Let us find it as we did in fractions.
 $\frac{-3}{5} \times 2$ = $\frac{-3 \times 2}{5}$ = $\frac{-6}{5}$
@@ -453,7 +457,7 @@ Based on these observations, we find that, $\frac{-3}{8} \times \frac{5}{7}$ =  
 
 > **TRY THESE**
 > 1. $\frac{-3}{5} \times (7)$
->
+> 
 > 2. $\frac{-6}{6} \times (-2)$
 
 So, as we did in the case of fractions, we multiply tworational numbers in the following way:
@@ -508,8 +512,8 @@ Thus, $\frac{-6}{5} \div \frac{-2}{3}$ = $\frac{6}{-5}$ $\times$ reciprocal of $
 
 > **TRY THESE**
 > Find:
-> 1.  $\frac{2}{3} \times \frac{-7}{8}$
-> 2.  $\frac{-6}{7} \times \frac{5}{7}$
+> 1.  $\frac{2}{3} \times \frac{-7}{8}$ 
+> 2.  $\frac{-6}{7} \times \frac{5}{7}$ 
 
 >**EXERCISE 8.2**
 >1. Find the sum:
@@ -521,7 +525,7 @@ Thus, $\frac{-6}{5} \div \frac{-2}{3}$ = $\frac{6}{-5}$ $\times$ reciprocal of $
 >(vi) $\frac{-2}{3} + 0$
 >(vii) -2$\frac{1}{3} + 4\frac{3}{5}$
 >
->2. Find
+>2. Find 
 >(i) $\frac{7}{24} - \frac{17}{36}$
 >(ii) $\frac{5}{36} - \left(\frac{-6}{21}\right)$
 >(iii) $\frac{-6}{13} - \left(\frac{-7}{15}\right)$
@@ -562,4 +566,13 @@ The numbers, $\frac{-1}{3}$, $\frac{2}{7}$ etc. are in standard form.
 7. There are unlimited number of rational numbers between two rational numbers.
 
 8. Two rational numbers with the same denominator can be added by adding their numerators, keeping the denominator same. Two rational numbers with different denominators are added by first taking the LCM of the two denominators and then converting both the rational numbers to their equivalent forms having the
-LCM as the denominator. For example,
+LCM as the denominator. For example, $\frac{-2}{3}$ + $\frac{3}{8}$ = $\frac{-16}{24}$ + $\frac{9}{24}$ = $\frac{-16 + 9}{24}$ = $\frac{-7}{24}$. 
+ LCM of 3 and 8 is 24.
+
+9. While subtracting two rational numbers, we add the additive inverse of the rational number to be subtracted to the other rational number.
+Thus, $\frac{7}{8}$ - $\frac{2}{3}$ = $\frac{7}{8}$ + additive inverse of $\frac{2}{3}$ = $\frac{7}{8}$ + $\frac{(-2)}{3}$ = $\frac{21 + (-16)}{24}$ = $\frac{5}{24}$
+
+10. To multiply two rational numbers, we multiply their numerators and denominators separately, and write the product as $\frac{\text{product of numerators}}{\text{product of denominators}}$.
+
+11. To divide one rational number by the other non-zero rational number, we multiply the rational number by the reciprocal of the other. Thus, 
+$\frac{-7}{2}$ $\div$ $\frac{4}{3}$ $\frac{-7}{2}$ $\times$ $\left(\text{reciprocal of }\frac{4}{3}\right)$ = $\frac{-7}{2}$ + $\frac{3}{4}$ = $\frac{-21}{8}$
