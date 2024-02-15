@@ -22,7 +22,7 @@ A rational number is defined as a number that can be expressed in the form
 
 Thus, $\frac{4}{5}$ is a rational number. Here, p = 4 and q = 5.
 
-- You have seen many fractions like $\frac{3}{8}$, $\frac{4}{8}$, 1$\frac{2}{3}$ etc. All fractions are rational numbers. Can you say why?
+- You have seen many fractions like $\frac{3}{8}$, $\frac{4}{8}$, 1 $\frac{2}{3}$ etc. All fractions are rational numbers. Can you say why?
 How about the decimal numbers like 0.5, 2.3, etc.? Each of such numbers can be written as an ordinary fraction and, hence, are rational numbers. For example, 0.5 = $\frac{5}{10}$, 0.333 = $\frac{333}{1000}$ etc.
 
 > **TRY THESE**
