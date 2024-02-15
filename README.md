@@ -200,3 +200,366 @@ but – 4 < –3, 5 > 2 but –5 < –2 etc.
 Thus, -$\frac{2}{7}$ < $\frac{1}{2}$
 
 - To compare rational numbers  $\frac{-3}{-5}$ and $\frac{-2}{-7}$ reduce them to their standard forms and then compare them.
+
+**EXAMPLE 3:** Do $\frac{4}{-9}$ and $\frac{-16}{36}$ represent the same rational number?
+
+**SOLUTION:** Yes, because $\frac{4}{-9} = \frac{4\times(-4)}{-9\times(-4)} = \frac{-16}{36}$ or
+$\frac{-16}{36} = \frac{-16\div(-4)}{36\div(-4)} = \frac{4}{-9}$
+
+## 8.8  RATIONAL NUMBERS BETWEEN TWO RATIONAL NUMBERS
+Reshma wanted to count the whole numbers between 3 and 10. From her earlier classes, she knew there would be exactly 6 whole numbers between 3 and 10. Similarly, she wanted to know the total number of integers between –3 and 3. The integers between –3 and 3 are –2, –1, 0, 1, 2. Thus, there are exactly 5 integers between –3 and 3.
+Are there any integers between –3 and –2? No, there is no integer between
+–3 and –2. Between two successive integers the number of integers is 0.
+
+Thus, we find that number of integers between two integers are limited (finite). Will the same happen in the case of rational numbers also?
+
+Reshma took two rational numbers $\frac{-3}{5}$ and $\frac{-1}{3}$
+She converted them to rational numbers with same denominators.
+So, $\frac{-3}{5}$ = $\frac{-9}{15}$ and $\frac{-1}{3}$ = $\frac{-5}{15}$
+
+We have, $\frac{-9}{15}$ < $\frac{-8}{15}$ <$\frac{-7}{15}$ < $\frac{-6}{15}$ < $\frac{-5}{15}$ or $\frac{-3}{5}$ < $\frac{-8}{15}$ <$\frac{-7}{15}$ < $\frac{-6}{15}$ < $\frac{-1}{3}$
+
+She could find rational numbers  $\frac{-8}{15}$ <$\frac{-7}{15}$ < $\frac{-6}{15}$ between $\frac{-3}{5}$ and $\frac{-1}{3}$
+
+Are the numbers $\frac{-8}{15}$, $\frac{-7}{15}$, $\frac{-6}{15}$ the only rational numbers between -$\frac{3}{5}$ and -$\frac{1}{3}$?
+
+We have $\frac{-3}{5}$ < $\frac{-18}{30}$ and $\frac{-8}{15}$ $\frac{-16}{30}$
+
+And $\frac{-18}{30}$ <$\frac{-17}{30}$ < $\frac{-16}{30}$ . i.e., $\frac{-3}{5}$ <$\frac{-17}{30}$ < $\frac{-8}{15}$
+
+Hence $\frac{-3}{5}$ <$\frac{-17}{30}$ < $\frac{-8}{15}$ <$\frac{-7}{15}$ < $\frac{-6}{15}$ <$\frac{-1}{3}$
+
+So, we could find one more rational number between $\frac{-3}{5}$ and $\frac{-1}{3}$.
+By using this method, you can insert as many rational numbers as you want between two different rational numbers.
+
+For eaxmple, $\frac{-3}{5} = \frac{-3\times30}{5\times30} = \frac{-90}{150}$ and $\frac{-1}{3} = \frac{-1\times50}{3\times50} = \frac{-50}{150}$
+
+We get 39 rational numbers ($\frac{-89}{150}$,.,,$\frac{-51}{150}$) between $\frac{-90}{150}$ and $\frac{-50}{150}$ i.e., between $\frac{-3}{5}$ and $\frac{-1}{3}$. You will find that the list is unending.
+
+Can you list five rational numbers between $\frac{-5}{3}$ and $\frac{-8}{7}$?
+
+*We can find unlimited number of rational numbers between any two rational numbers.*
+
+> **TRY THESE**
+>
+> Find five rational numbers between $\frac{-5}{7}$ and $\frac{-3}{8}$?
+
+**EXAMPLE 4:** List three rational numbers between – 2 and – 1.
+
+**SOLUTION:** Let us write –1 and –2 as rational numbers with denominator 5. (Why?)
+
+We have, -1 = $\frac{-5}{5}$ and -2 = $\frac{-5}{10}$
+
+$\frac{-10}{5}$ < $\frac{-9}{5}$ < $\frac{-8}{5}$ <$\frac{-7}{5}$ < $\frac{-6}{5}$ < $\frac{-5}{5}$ or -2 < $\frac{-9}{5}$ < $\frac{-8}{5}$ <$\frac{-7}{5}$ < $\frac{-6}{5}$ < -1
+
+The three rational numbers between –2 and –1 would be, $\frac{-9}{5}$, $\frac{-8}{5}$, $\frac{-7}{5}$
+
+(You can take any three of $\frac{-9}{5}$, $\frac{-8}{5}$, $\frac{-7}{5}$, $\frac{-6}{5}$ )
+
+**EXAMPLE 5:** Write four more numbers in the following pattern:
+$\frac{-1}{3}$, $\frac{-2}{6}$, $\frac{-3}{9}$, $\frac{-4}{12}$,..
+
+**SOLUTION:** We have,
+
+$\frac{-2}{6}$ = $\frac{-1\times2}{3\times2}$, $\frac{-3}{9}$ = $\frac{-1\times3}{3\times3}$, $\frac{-4}{12}$ = $\frac{-1\times4}{3\times4}$
+or
+$\frac{-1\times1}{3\times1}$ = $\frac{-1}{3}$, $\frac{-1\times2}{3\times2}$ = $\frac{-2}{6}$, $\frac{-1\times3}{3\times3}$ = $\frac{-3}{9}$, $\frac{-1\times4}{3\times4}$ = $\frac{-4}{12}$
+
+Thus, we observe a pattern in these numbers.
+
+The other numbers would be $\frac{-1\times5}{3\times5}$ = $\frac{-5}{15}$, $\frac{-1\times6}{3\times6}$ = $\frac{-6}{18}$, $\frac{-1\times7}{3\times7}$ = $\frac{-7}{21}$.
+
+> **EXERCISE 8.1**
+>
+> 1. List five rational numbers between:
+> (i) –1 and 0
+>(ii) –2 and –1
+>(iii) $\frac{-4}{5}$ and $\frac{-2}{3}$
+>(iv) -$\frac{1}{2}$ and $\frac{2}{3}$
+>
+>2. Write four more rational numbers in each of the following patterns:
+> (i)$\frac{-3}{5}$, $\frac{-6}{10}$, $\frac{-9}{15}$, $\frac{-12}{20}$, ...
+>(ii) $\frac{-1}{4}$, $\frac{-2}{8}$, $\frac{-3}{12}$, ...
+>(iii) $\frac{-1}{6}$, $\frac{2}{-12}$, $\frac{3}{-18}$, $\frac{4}{-24}$, ...
+>(iv) $\frac{-2}{3}$, $\frac{2}{-3}$, $\frac{4}{-6}$, $\frac{6}{-9}$, ...
+>
+>3. Give four rational numbers equivalent to:
+>(i) $\frac{-2}{7}$
+>(ii) $\frac{5}{-3}$
+>(iii) $\frac{4}{9}$
+>
+>4. Draw the number line and represent the following rational numbers on it:
+>(i) $\frac{3}{4}$
+>(ii) $\frac{-5}{-8}$
+>(iii) $\frac{-7}{4}$
+>(iv) $\frac{7}{8}$
+>
+>5. The points P, Q, R, S, T, U, A and B on the number line are such that, TR = RS = SU and AP = PQ = QB. Name the rational numbers represented by P, Q, R and S.
+>**picture**
+>
+>6. Which of the following pairs represent the same rational number?
+>(i) $\frac{-7}{21}$ and $\frac{3}{9}$
+>(ii) $\frac{-16}{20}$ and $\frac{20}{-25}$
+>(iii) $\frac{-2}{-3}$ and $\frac{2}{3}$
+>(iv) $\frac{-3}{5}$ and $\frac{-12}{20}$
+>(v) $\frac{8}{-5}$ and $\frac{-24}{15}$
+>(vi) $\frac{1}{3}$ and $\frac{-1}{9}$
+>(vii) $\frac{-5}{-9}$ and $\frac{5}{-9}$
+>
+>7. Rewrite the following rational numbers in the simplest form:
+>(i) $\frac{-8}{6}$
+>(ii) $\frac{25}{45}$
+>(iii) $\frac{-44}{72}$
+>(iv) $\frac{-8}{10}$
+>
+>8. Fill in the boxes with the correct symbol out of >, <, and =.
+>(i) $\frac{-5}{7}$ [ ] $\frac{2}{3}$
+>(ii) $\frac{-4}{5}$ [ ] $\frac{-5}{7}$
+>(iii) $\frac{-7}{8}$ [ ] $\frac{14}{-16}$
+>(iv) $\frac{-8}{5}$ [ ] $\frac{-7}{4}$
+>(v) $\frac{1}{-3}$ [ ] $\frac{-1}{4}$
+>(vi) $\frac{5}{11}$ [ ] $\frac{-5}{11}$
+>(vii) 0 [ ] $\frac{-7}{6}$
+>
+>9. Which is greater in each of the following:
+>(i) $\frac{2}{3}$, $\frac{5}{2}$
+>(ii) $\frac{-5}{6}$, $\frac{-4}{3}$
+>(iii) $\frac{-3}{4}$, $\frac{2}{-3}$
+>(iv) $\frac{-1}{4}$, $\frac{1}{4}$
+>(v) -3$\frac{2}{7}$, -3$\frac{4}{5}$
+>
+>10. Write the following rational numbers in ascending order:
+>(i) $\frac{-3}{5}$, $\frac{-2}{5}$, $\frac{-1}{5}$
+>(ii) $\frac{-1}{3}$, $\frac{-2}{9}$, $\frac{-4}{3}$
+>(iii) $\frac{-3}{7}$, $\frac{-3}{2}$, $\frac{-3}{4}$
+
+## 8.9 OPERATIONS ON RATIONAL NUMBERS
+You know how to add, subtract, multiply and divide integers as well as fractions. Let us now study these basic operations on rational numbers.
+
+### 8.9.1 Addition
+- Let us add two rational numbers with same denominators, say  $\frac{7}{3}$, $\frac{-5}{3}$
+We find,  $\frac{7}{3}$ + $\left(\frac{-3}{2}\right)$
+On the number line, we have:
+**picture**
+The distance between two consecutive points is $\frac{1}{3}$. So adding
+$\frac{-5}{3}$ to $\frac{7}{3}$ will mean, moving to the left of  $\frac{7}{3}$ making 5 jumps. Where do we reach? We reach at  $\frac{2}{3}$.
+
+	So,  $\frac{7}{3}$ + $\left(\frac{-5}{3}\right)$ = $\frac{2}{3}$
+
+	Let us now try this way:
+	$\frac{7}{3}$ + $\frac{(-5)}{3}$ = $\frac{7 + (-5)}{3}$ = $\frac{2}{3}$
+
+	We get the same answer.
+	Find $\frac{6}{5}$ + $\frac{(-2)}{5}$, $\frac{3}{7}$ + $\frac{(-5)}{7}$ in both ways and check if you get the same answers.
+	 Similarly, $\frac{-7}{8}$ + $\frac{5}{8}$ would be
+	 **picture**
+	 What do you get?
+	  Also, $\frac{-7}{8}$ + $\frac{5}{8}$ =  $\frac{-7 + 5}{8}$=? Are the two values same?
+
+	 *So, we find that while adding rational numbers with same denominators, we add the numerators keeping the denominators same.*
+
+	$\frac{-11}{5}$ + $\frac{7}{5}$ =  $\frac{-11 + 7}{5}$= $\frac{-4}{5}$
+>**TRY THESE**
+>
+>FInd $\frac{-13}{7}$ + $\frac{6}{7}$, $\frac{19}{5}$ + $\left(\frac{-7} {5}\right)$
+
+- How do we add rational numbers with different denominators? As in the case of fractions, we first find the LCM of the two denominators. Then, we find the equivalent rational numbers of the given rational numbers with this LCM as the denominator. Then, add the two rational numbers.
+
+	For example, let us add $\frac{-7}{5}$ + $\frac{-2}{3}$
+	LCM of 5 and 3 is 15.
+
+	So, $\frac{-7}{5}$ = $\frac{-21}{15}$ and $\frac{-2}{3}$ + $\frac{-10}{15}$
+
+	Thus,  $\frac{-7}{5}$ + $\frac{-2}{3}$ =  $\frac{-21}{15}$ + $\frac{-10}{15}$ = $\frac{-31}{15}$
+
+> **TRY THESE**
+> 1.  $\frac{-3}{7}$ + $\frac{2}{3}$
+> 2.   $\frac{-5}{6}$ + $\frac{-3}{11}$
+
+**Additive Inverse**
+What will be $\frac{-4}{7}$ + $\frac{4}{7}$ = ?
+
+$\frac{-4}{7}$ + $\frac{4}{7}$ = $\frac{-4 + 4}{7}$ = 0. Also, $\frac{4}{7}$ + $\left(\frac{-4}{7}\right)$ = 0
+
+Similarly, $\frac{-2}{3}$ + $\frac{2}{3}$ = 0 =  $\frac{2}{3}$ + $\left(\frac{-2}{3}\right)$
+
+In the case of integers, we call – 2 as the additive inverse of 2 and 2 as the additive inverse of – 2.
+
+For rational numbers also, we call $\frac{-4}{7}$ as the **additive inverse** of $\frac{4}{7}$ and $\frac{4}{7}$ as additive inverse of $\frac{-4}{7}$. Similarly $\frac{-2}{3}$ as the additive inverse of $\frac{2}{3}$ and $\frac{2}{3}$ as additive inverse of $\frac{-2}{3}$.
+
+> **TRY THESE**
+> What will be the additive inverse of $\frac{-3}{9}$?,  $\frac{-9}{11}$?,  $\frac{5}{7}$?
+
+**EXAMPLE 6:** Satpal walks $\frac{2}{3}$ km from a place P, towards east and then from there 1$\frac{5}{7}$ km towards west. Where will he be now from P?
+
+**SOLUTION:** Let us denote the distance travelled towards east by positive sign. So, the distances towards west would be denoted by negative sign.
+Thus, distance of Satpal from the point P would be
+
+$\frac{2}{3}$ + $\left(-1\frac{5}{7}\right)$ = $\frac{2}{3}$ + $\frac{(-12)}{7}$ = $\frac{2\times7}{3\times7}$ + $\frac{-12\times3}{7\times4}$ = $\frac{14 -   36}{21}$ = $\frac{-22}{21}$ = $\left(-1\frac{1}{21}\right)$
+
+Since it is negative, it means Satpal is at a distance $1\frac{1}{21}$ km towards west of P.
+
+### 8.9.2 Subtraction
+Savita found the difference of two rational numbers $\frac{5}{7}$ and $\frac{3}{8}$ in this way:
+
+ $\frac{5}{7}$ - $\frac{3}{8}$ =  $\frac{40 - 21}{56}$ = $\frac{19}{56}$
+
+Farida knew that for two integers a and b she could write a – b = a + (– b)
+She tried this for rational numbers also and found, $\frac{5}{7}$ - $\frac{3}{8}$ =  $\frac{5}{7}$ + $\frac{(-3)}{8}$  = $\frac{19}{56}$
+Both obtained the same difference.
+
+Try to find  $\frac{7}{8}$ - $\frac{5}{9}$,  $\frac{3}{11}$ - $\frac{8}{7}$ in both ways. Did you get the same answer?
+
+So, we say *while subtracting two rational numbers, we add the additive inverse of the rational number that is being subtracted, to the other rational number.*
+
+Thus, 1$\frac{2}{3}$ - 2$\frac{4}{5}$ = $\frac{5}{3}$ - $\frac{14}{5}$ =  $\frac{5}{3}$ + additive inverse of $\frac{14}{5}$ = $\frac{5}{3}$ - $\frac{(-14)}{5}$ = $\frac{-17}{15}$ = -1$\frac{2}{15}$
+
+What will be $\frac{2}{7}$ - $\left(\frac{-5}{6}\right)$ ?
+
+ $\frac{2}{7}$ - $\left(\frac{-5}{6}\right)$ =  $\frac{2}{7}$ + additive inverse of $\left(\frac{-5}{6}\right)$ = $\frac{2}{7}$ + $\frac{5}{6}$ = $\frac{47}{42}$ = 1$\frac{5}{42}$
+
+> **TRY THESE**
+> Find:
+> (i) $\frac{7}{9}$ - $\frac{2}{5}$
+> (ii) 2$\frac{1}{5}$ - $\frac{(-1)}{3}$
+
+### 8.9.3 Multiplication
+Let us multiply the rational number $\frac{-3}{5}$ by 2, i.e., we find $\frac{-3}{5} \times 2$
+
+On the number line, it will mean two jumps of $\frac{3}{5}$ to the left.
+**picture**
+
+Where do we reach? We reach at $\frac{-6}{5}$. Let us find it as we did in fractions.
+$\frac{-3}{5} \times 2$ = $\frac{-3 \times 2}{5}$ = $\frac{-6}{5}$
+
+We arrive at the same rational number.
+
+Find $\frac{-4}{7} \times 3$, $\frac{-6}{5} \times 4$ using both ways. What do you observe?
+
+So, *we find that while multiplying a rational number by a positive integer, we
+multiply the numerator by that integer, keeping the denominator unchanged.*
+
+Let us now multiply a rational number by a negative integer,
+
+$\frac{-2}{9} \times (-5)$ = $\frac{-2 \times (-5)}{9}$ = $\frac{10}{9}$
+
+Remember, –5 can be written as = $\frac{-5}{1}$
+
+So,  $\frac{-2}{9} \times \frac{-5}{1}$ =  $\frac{10}{9}$ =  $\frac{-2 \times (-5)}{9 \times 1}$
+
+Similarly, $\frac{3}{11} \times (-2)$ = $\frac{3 \times (-2)}{11 \times 1}$ = $\frac{-6}{11}$
+
+Based on these observations, we find that, $\frac{-3}{8} \times \frac{5}{7}$ =  $\frac{-3 \times 5}{8 \times 7}$ = $\frac{-15}{56}$
+
+> **TRY THESE**
+> 1. $\frac{-3}{5} \times (7)$
+>
+> 2. $\frac{-6}{6} \times (-2)$
+
+So, as we did in the case of fractions, we multiply tworational numbers in the following way:
+**Step 1** Multiply the numerators of the two rational numbers.
+**Step 2** Multiply the denominators of the two rational numbers.
+**Step 3** Write the product as $\frac{\text{Result of Step 1}}{\text{Result of Step 2}}$
+
+Thus $\frac{-3}{5} \times \frac{2}{7}$ =  $\frac{-3 \times 5}{2 \times 7}$ = $\frac{-6}{35}$
+
+Also, $\frac{-5}{8} \times \frac{-9}{7}$ =  $\frac{-5 \times (-9)}{8 \times 7}$ = $\frac{45}{56}$
+
+> **TRY THESE**
+> Find:
+> 1. $\frac{-3}{4} \times \frac{1}{7}$
+> 2. $\frac{2}{3} \times \frac{-5}{9}$
+
+### 8.9.4 Division
+
+We have studied reciprocals of a fraction earlier. What is the reciprocal of $\frac{2}{7}$? It will be $\frac{7}{2}$. We extend this idea of reciprocals to non-zero rational numbers also.
+
+The reciprocal of $\frac{-2}{7}$ will be $\frac{7}{-2}$ i.e., $\frac{-7}{2}$; that  of $\frac{-3}{5}$ would be $\frac{-5}{3}$.
+
+> **TRY THESE**
+> What will be the reciprocal of  $\frac{-6}{11}?$ and $\frac{-8}{5}$?
+
+> **Product of reciprocals**
+> The product of a rational number with its reciprocal is always 1.
+> For example, $$\frac{-4}{9} \times \left(\text{reciprocal of}\frac{-4}{9}\right)$$
+= $\frac{-4}{9} \times \frac{-9}{4}$ = 1
+>
+>Similarly, $\frac{-6}{13} \times \frac{-13}{6}$ = 1
+>
+>Try some more examples and confirm this observation.
+
+Savita divided a rational number $\frac{4}{9}$ by another rational number $\frac{-5}{7}$ as,
+
+$\frac{-4}{9} \div \frac{-5}{7}$ = $\frac{4}{9} \times \frac{7}{-5}$ = $\frac{28}{-45}$
+
+She used the idea of reciprocal as done in fractions.
+
+Arpit first divided $\frac{4}{9}$ by $\frac{5}{7}$ and got $\frac{28}{-45}$
+
+He finally said, $\frac{4}{9} \div \frac{-5}{7}$ = $\frac{-28}{45}$. How did he get that?
+
+He divided them as fractions, ignoring the negative sign and then put the negative sign in the value so obtained.
+
+Both of them got the same value $\frac{-28}{45}$. Try dividing $\frac{2}{3}$ by $\frac{-5}{7}$ both ways and see if you get the same answer.
+
+This shows, *to divide one rational number by the other non-zero rational number we multiply the rational number by the reciprocal of the other.*
+
+Thus, $\frac{-6}{5} \div \frac{-2}{3}$ = $\frac{6}{-5}$ $\times$ reciprocal of $\left(\frac{-2}{3}\right)$ = $\frac{6}{-5} \times \frac{3}{-2}$ = $\frac{18}{10}$
+
+> **TRY THESE**
+> Find:
+> 1.  $\frac{2}{3} \times \frac{-7}{8}$
+> 2.  $\frac{-6}{7} \times \frac{5}{7}$
+
+>**EXERCISE 8.2**
+>1. Find the sum:
+>(i) $\frac{5}{4} + \left(\frac{-11}{4}\right)$
+>(ii) $\frac{5}{3} + \frac{3}{5}$
+>(iii) $\frac{-9}{10} + \frac{22}{15}$
+>(iv) $\frac{-3}{-11} + \frac{5}{9}$
+>(v) $\frac{-8}{19} + \frac{(-2)}{57}$
+>(vi) $\frac{-2}{3} + 0$
+>(vii) -2$\frac{1}{3} + 4\frac{3}{5}$
+>
+>2. Find
+>(i) $\frac{7}{24} - \frac{17}{36}$
+>(ii) $\frac{5}{36} - \left(\frac{-6}{21}\right)$
+>(iii) $\frac{-6}{13} - \left(\frac{-7}{15}\right)$
+>(vi) $\frac{-3}{8} - \frac{7}{11}$
+>(v) -2$\frac{1}{9} - 6$
+>
+>3. Find the product:
+>(i) $\frac{9}{2} \times \left(\frac{-7}{4}\right)$
+>(ii) $\frac{3}{10} \times (-9)$
+>(iii) $\frac{-6}{5} \times \frac{9}{11}$
+>(vi) $\frac{3}{7} \times \left(\frac{-2}{5}\right)$
+>(v) $\frac{3}{11} \times \frac{2}{5}$
+>(vi) $\frac{3}{-5} \times \frac{-5}{3}$
+>
+>4. Find the value of:
+>(i) $(-4) \div \frac{2}{3}$
+>(ii) $\frac{-3}{2} \div 2$
+>(iii) $\frac{-4}{5} \div (-3)$
+>(vi) $\frac{-1}{8} \div \frac{3}{4}$
+>(v) $\frac{-2}{13} \div \frac{1}{7}$
+>(vi) $\frac{-7}{12} \div \left(\frac{-2}{13}\right)$
+>(vii) $\frac{3}{13} \div \left(\frac{-4}{65}\right)$
+
+## WHAT HAVE WE DISCUSSED ?
+1. A number that can be expressed in the form $\frac{p}{q}$ , where p and q are integers and q ≠ 0, is called a rational number. The numbers $\frac{-2}{7}$, $\frac{3}{8}$, 3 etc. are rational numbers.
+
+2. All integers and fractions are rational numbers.
+
+3. If the numerator and denominator of a rational number are multiplied or divided by a non-zero integer, we get a rational number which is said to be equivalent to the given rational number. For example $\frac{-3}{7}$ = $\frac{-3 \times 2}{7 \times 2}$ = $\frac{-6}{14}$ is the equivalent. So we say $\frac{-6}{14}$ is the equivalent form of $\frac{-3}{7}$. Also note that $\frac{-6}{14}$ = $\frac{-6 \div 2}{14 \div 2}$ = $\frac{-3}{7}$
+
+4. Rational numbers are classified as Positive and Negative rational numbers. When the numerator and denominator, both, are positive integers, it is a positive rational number. When either the numerator or the denominator is a negative integer, it is a negative rational number. For example, $\frac{3}{4}$ is a positive rational number whereas $\frac{-8}{9}$ is a negative rational number.
+
+5. The number 0 is neither a positive nor a negative rational number.
+
+6. A rational number is said to be in the standard form if its denominator is a positive integer and the numerator and denominator have no common factor other than 1.
+The numbers, $\frac{-1}{3}$, $\frac{2}{7}$ etc. are in standard form.
+
+7. There are unlimited number of rational numbers between two rational numbers.
+
+8. Two rational numbers with the same denominator can be added by adding their numerators, keeping the denominator same. Two rational numbers with different denominators are added by first taking the LCM of the two denominators and then converting both the rational numbers to their equivalent forms having the
+LCM as the denominator. For example,
